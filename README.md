@@ -1,3 +1,8 @@
+写了一个例子，详情见
+如何搭建企业自己的扫描器（三）Tsunami 编写插件：https://blog.csdn.net/qq_34101364/article/details/113960480
+例子见：https://github.com/5wimming/5wimming-security-scanner-plugins/tree/main/google/detectors/mine/mywebservice
+
+
 # Plugins for Tsunami Security Scanner
 
 This project aims to provide a central repository for many useful Tsunami
